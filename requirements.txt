@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+gunicorn
+nltk==3.4.4
+re==2.2.1
+joblib==0.15.1
+numpy==1.19.5
+scikit-learn==0.23.2
+joblib==0.17.0
+pandas==1.0.3
+numpy==1.18.5
+pydantic
