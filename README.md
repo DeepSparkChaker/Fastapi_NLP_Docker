@@ -25,7 +25,7 @@ The dataset comprises 50,000 reviews of movies and is a binary classification pr
 |--- Dockerfile
 
 #  FastAPI
-https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/
+
 # Docker
 Finally, to wrap it all up, we create a Dockerfile :
 
@@ -37,6 +37,12 @@ docker build -t api .
 
 docker run -d -p 8000:8000 api
 
-#Conclusion
+# Conclusion
 
 After going through the process of working around FastAPI and Docker, I feel this skillset is a necessary repertoire in a data scientist's toolkit. The process of building around our model and deploying it has become easier and much more accessible than it was before.
+# Reference:
+https://nickc1.github.io/api,/scikit-learn/2019/01/10/scikit-fastapi.html
+https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/
+
+
+
