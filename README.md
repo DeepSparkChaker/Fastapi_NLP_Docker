@@ -46,9 +46,14 @@ https://www.youtube.com/watch?v=7t2alSnE2-I
 https://dev.to/kushalvala/tensorflow-model-deployment-using-fastapi-docker-4183
 
 https://nickc1.github.io/api,/scikit-learn/2019/01/10/scikit-fastapi.html
+
 https://github.com/akshaykhatale/fastapi-heroku-docker
 
 https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/
+
+https://github.com/kaustubhgupta/FastAPI-KivyMD-App-Demo
+
+https://www.analyticsvidhya.com/blog/2021/06/deploying-ml-models-as-api-using-fastapi-and-heroku/
 
 
 
