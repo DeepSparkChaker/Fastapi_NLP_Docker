@@ -1,5 +1,5 @@
 # TL; DR:
-In this article, we are going to build a TensorFlow model (v2) and using FastAPI create REST API calls to predict from the model, and finally containerize it using Docker 😃
+In this article, we are going to build a NLP model (v2) and using FastAPI create REST API calls to predict from the model, and finally containerize it using Docker 😃
 I want to emphasize the usage of FastAPI and how rapidly this framework is a game-changer for building easy to go and much faster API calls for a machine learning pipeline.
 Traditionally, we have been using Flask Microservices for building REST API calls but the process involves a bit of nitty-gritty to understand the framework and implement it.
 On the other end, I found FastAPI to be pretty user-friendly and very easy to pick up and implement type of framework.
